@@ -3,6 +3,6 @@
 
 int main(){
 
-	say("Hello");
+	say("I say Hello");
 	return 0;
 }
