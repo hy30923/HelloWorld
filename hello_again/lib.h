@@ -1,0 +1,2 @@
+
+void say(char *arg);
