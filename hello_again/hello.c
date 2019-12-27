@@ -1,8 +1,8 @@
 #include <stdlib.h>
 #include "lib.h"
 
-int main(){
+void main(){
 
 	say("I say Hello");
-	return 0;
+	return;
 }
